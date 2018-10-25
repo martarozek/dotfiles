@@ -1,0 +1,11 @@
+[alias]
+    	co = checkout
+    	ci = commit
+    	st = status
+[user]
+	email = marta.rozek@gmail.com
+	name = Marta Rozek
+[core]
+  	editor = 'vim'
+[credential]
+	helper = cache --timeout 7200
